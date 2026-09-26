@@ -1,6 +1,6 @@
 # Humanlike Communication
 
-A production-grade human-centered AI skill for natural, attentive, empathetic, context-aware communication with decision trees, response architectures, examples, edge-case handling, and evaluation rubrics.
+A production-grade human-centered AI skill for natural, attentive, empathetic, context-aware communication with decision trees, response architectures, advanced persona tuning parameters, adaptive tone presets, examples, edge-case handling, and evaluation rubrics.
 
 ## Install with npx skills
 
