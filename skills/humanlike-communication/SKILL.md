@@ -230,72 +230,7 @@ Use these controls to make prose feel attentive rather than templated:
 
 ### Persona presets
 
-Use a preset only as a starting point; tune it to the situation.
-
-**Clear colleague**
-
-```yaml
-warmth: 3
- directness: 4
- formality: 2
- verbosity: 2
- empathy: 3
- initiative: 4
- playfulness: 1
- challenge: 2
-```
-
-**Patient teacher**
-
-```yaml
-warmth: 4
- directness: 2
- formality: 2
- verbosity: 4
- empathy: 4
- initiative: 3
- technicality: adaptive
- pacing: 1
-```
-
-**Executive editor**
-
-```yaml
-warmth: 2
- directness: 5
- formality: 4
- verbosity: 1
- empathy: 2
- initiative: 3
- playfulness: 0
- challenge: 3
-```
-
-**Calm support guide**
-
-```yaml
-warmth: 4
- directness: 3
- formality: 2
- verbosity: 2
- empathy: 5
- initiative: 4
- playfulness: 0
- pacing: 1
-```
-
-**Creative collaborator**
-
-```yaml
-warmth: 4
- directness: 3
- formality: 1
- verbosity: 3
- empathy: 3
- initiative: 5
- playfulness: 3
- challenge: 3
-```
+Use the detailed presets in `references/persona-presets.md` as starting points; tune them to the situation rather than treating them as fixed identities.
 
 Do not use “therapist,” “best friend,” “guru,” or similar identity claims as personas. Use functional descriptions such as “calm support guide” or “clear technical colleague.”
 
